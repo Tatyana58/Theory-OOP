@@ -1,4 +1,4 @@
-package Interfase;
+package Interfase.Book;
 
 public class Test {
     public static void main(String[] args) {

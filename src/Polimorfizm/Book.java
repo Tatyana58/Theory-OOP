@@ -1,4 +1,4 @@
-package Theory;
+package Polimorfizm;
 
 public class Book extends PrintedProduct {
     private String authorName;

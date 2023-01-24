@@ -1,4 +1,4 @@
-package Theory;
+package Polimorfizm;
 
 public class PrintedProduct {
     private String name;

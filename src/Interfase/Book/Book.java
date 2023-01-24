@@ -1,6 +1,6 @@
-package Interfase;
+package Interfase.Book;
 
-public class Book implements Printable{
+public class Book implements Printable {
     String name;
     String author;
 

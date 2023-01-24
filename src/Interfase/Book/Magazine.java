@@ -1,6 +1,6 @@
-package Interfase;
+package Interfase.Book;
 
-public class Magazine implements Printable{
+public class Magazine implements Printable {
     //// Класс Magazine в данном случае реализует интерфейс Printable,
     //// и объекты этого класса имеют метод print, созданный в интерфейсе,
     //// с той реализацией, которая обозначена в самом интерфейсе
